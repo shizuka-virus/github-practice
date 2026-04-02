@@ -183,4 +183,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Muhammad Farooq
+Muhammad Farooq and Aiman Munawar
